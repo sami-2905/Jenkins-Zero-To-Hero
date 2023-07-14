@@ -21,7 +21,9 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <java.version>11</java.version>
+	<java.version>11</java.version>
+        <sonar.login>ff73721d5bae39a1e08c11be8dbd5340d8777408</sonar.login>
+        <sonar.password>ff73721d5bae39a1e08c11be8dbd5340d8777408</sonar.password>
     </properties>
 
     <dependencies>
