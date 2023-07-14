@@ -11,7 +11,7 @@ Prerequisites:
    -   Jenkins server
    -  Kubernetes cluster
    -  Helm package manager
-   -  Argo CD.
+   -  Argo CD
 
 Steps:
 
